@@ -1,0 +1,20 @@
+{
+  "lut": "data/lut.cube",
+  "size": 2,
+  "domain_min": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "domain_max": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "width": 512,
+  "height": 512,
+  "pixels": 262144,
+  "max_error": 2.220446049250313e-16,
+  "clamped_pixels": 111135,
+  "elapsed_seconds": 0.8117685999968671
+}
